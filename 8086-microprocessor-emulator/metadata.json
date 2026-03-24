@@ -1,5 +1,0 @@
-{
-  "name": "8086 Microprocessor Emulator",
-  "description": "A web-based 8086 microprocessor emulator with an integrated assembler, register visualization, and memory management.",
-  "requestFramePermissions": []
-}
